@@ -1,0 +1,15 @@
+MyProject/
+   app/
+      manifest/
+         AndroidManifest.xml
+   java/
+      MyActivity.java  
+      res/
+         drawable/  
+            icon.png  
+         layout/  
+            activity_main.xml
+            info.xml
+         values/  
+            strings.xml 
+			
